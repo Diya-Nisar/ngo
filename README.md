@@ -60,8 +60,5 @@ Contributions are welcome! To contribute:
 4. Push to your branch: `git push origin feature-branch`
 5. Open a Pull Request.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any questions or suggestions, reach out to **Diya Nisar** via [GitHub](https://github.com/Diya-Nisar).
